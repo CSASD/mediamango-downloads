@@ -1,0 +1,11 @@
+{
+  "version": "2.0.1",
+  "notes": "Visual model downloads now use MediaMango hosting, show progress, and support Cancel and Resume. SmartMango downloads the hosted AI-agent playbook. Release-download links open the MediaMango download page. Includes corrected Mac runtime signing and notarization.",
+  "pub_date": "2026-10-23T15:27:00.050Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/CSASD/mediamango-downloads/releases/download/macos-v2.0.1/MediaMango.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaEZNQTdaK3RkUDNYR1NQQ3RTWXhCczJvNzFFelB6WTNNL3A2TENxZXpZZ2xHWm5pcDZxKy81U3Q1UEZxaWhZVTM4dXJycXROeS9VWTkzMWZDWFFtVjQ3M3ZGQjVCelFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzY5MTAwCWZpbGU6TWVkaWFNYW5nby5hcHAudGFyLmd6CnpCN1NTb0hsMjU0NjAwbm5sZms1V1JDeWptZmx2Mm9DY3J6eVdZWHVja0ZFOWxQSFcwV3VSNlRJbVNCOVlBSHpmd0grQ2VQcFhoSGRtZFhNaGZxU0JRPT0K"
+    }
+  }
+}
