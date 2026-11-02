@@ -1,11 +1,11 @@
 {
-  "version": "2.0.5",
-  "notes": "MediaMango v2.0.5 for macOS Apple Silicon. Developer ID signed and notarised by Apple.",
-  "pub_date": "2026-11-02T18:04:59.878Z",
+  "version": "2.0.6",
+  "notes": "Fixes macOS updater installation failure caused by hidden archive metadata, and improves license persistence at launch. Signed and notarised by Apple.",
+  "pub_date": "2026-11-02T18:26:17.651Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/CSASD/mediamango-downloads/releases/download/macos-v2.0.5/MediaMango.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaEZNQTdaK3RkUC9HVHRhU0FWR1FoR3VOYmhlZDRiZVg2ZkRGbnJ5ZmFoL0JIanozUkx1ZEV4S1krbUVhemRocHNjclM2QlJhUEFtWWFrb25EcDBZenJ4OWxKbjltYlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQxMjEzCWZpbGU6TWVkaWFNYW5nby5hcHAudGFyLmd6CllTSGxQU1pWYVhXdElwWklnREx5dCtNU3dVWjFDRjRlODQ4Vkg2S2lHREw5SnZUcWlvRHR1REx3alFjUDNIbGRva1ZMWkNVSVVZUFgyTERBcTc4WkJBPT0K"
+      "url": "https://github.com/CSASD/mediamango-downloads/releases/download/macos-v2.0.6/MediaMango.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaEZNQTdaK3RkUDhhdjdFUUFRVTMrS3pUc2o4UVFlZ0R2a2ZsckxVWkdvUFJPVW5TT2lCZmhSbkpLRGRBYXMzUENXc1ZmV3ZMVVZ3MDJpMzdLQTAzN1lBRGNZNndaZFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQzOTUzCWZpbGU6TWVkaWFNYW5nby5hcHAudGFyLmd6CkdobnJTaHkrcHlnT05BRWhVQzRObEFXN0FQOXVzdGhyR0phSSs5QlgrTWxqYWVTT3ZRYzlKMUdkbHlhdG5QQmNrTHhqL3FQN2VKM05tbUpJcXNncERBPT0K"
     }
   }
 }
