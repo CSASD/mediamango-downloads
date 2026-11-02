@@ -1,11 +1,11 @@
 {
-  "version": "2.0.3",
-  "notes": "MediaMango v2.0.3 for macOS. Includes signed and notarized runtime, on-device visual model download improvements, and SmartMango playbook access.",
-  "pub_date": "2026-10-23T18:46:30.900Z",
+  "version": "2.0.5",
+  "notes": "MediaMango v2.0.5 for macOS Apple Silicon. Developer ID signed and notarised by Apple.",
+  "pub_date": "2026-11-02T18:04:59.878Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/CSASD/mediamango-downloads/releases/download/macos-v2.0.3/MediaMango.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaEZNQTdaK3RkUDBiR0RGN1ZVSEhaRWd4ak1vWVdXNnQ5M3B1NGlqL2VXWVBrMVNPbmpkeVZrOXV6eEgwV0M3UFl5RW9UV3EybWJZcWpoN1NYMTU5KzFoNUpDT1ZvVFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc5MzAzCWZpbGU6TWVkaWFNYW5nby5hcHAudGFyLmd6CkdOL2RQVFhadWx0cmw2aHhqNFFPS1BpUFp1TnozUkpBcjdqWUNwT1JFZGRvMkowR0Q5WGwvQjg5U3BiVWpqQkxzcm5oMFUxNTFmVzhSdGRubC9XdERnPT0K"
+      "url": "https://github.com/CSASD/mediamango-downloads/releases/download/macos-v2.0.5/MediaMango.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaEZNQTdaK3RkUC9HVHRhU0FWR1FoR3VOYmhlZDRiZVg2ZkRGbnJ5ZmFoL0JIanozUkx1ZEV4S1krbUVhemRocHNjclM2QlJhUEFtWWFrb25EcDBZenJ4OWxKbjltYlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQxMjEzCWZpbGU6TWVkaWFNYW5nby5hcHAudGFyLmd6CllTSGxQU1pWYVhXdElwWklnREx5dCtNU3dVWjFDRjRlODQ4Vkg2S2lHREw5SnZUcWlvRHR1REx3alFjUDNIbGRva1ZMWkNVSVVZUFgyTERBcTc4WkJBPT0K"
     }
   }
 }
