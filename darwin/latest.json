@@ -1,11 +1,11 @@
 {
-  "version": "2.0.6",
-  "notes": "Fixes macOS updater installation failure caused by hidden archive metadata, and improves license persistence at launch. Signed and notarised by Apple.",
-  "pub_date": "2026-11-02T18:26:17.651Z",
+  "version": "2.0.7",
+  "notes": "Improves navigation transitions and Storage Analyser interactions, including the Downloads review shortcut. This release is signed and notarized for Apple Silicon.",
+  "pub_date": "2026-11-03T11:08:15.817Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/CSASD/mediamango-downloads/releases/download/macos-v2.0.6/MediaMango.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaEZNQTdaK3RkUDhhdjdFUUFRVTMrS3pUc2o4UVFlZ0R2a2ZsckxVWkdvUFJPVW5TT2lCZmhSbkpLRGRBYXMzUENXc1ZmV3ZMVVZ3MDJpMzdLQTAzN1lBRGNZNndaZFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQzOTUzCWZpbGU6TWVkaWFNYW5nby5hcHAudGFyLmd6CkdobnJTaHkrcHlnT05BRWhVQzRObEFXN0FQOXVzdGhyR0phSSs5QlgrTWxqYWVTT3ZRYzlKMUdkbHlhdG5QQmNrTHhqL3FQN2VKM05tbUpJcXNncERBPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaEZNQTdaK3RkUHhOeENuNitXVHdWWUoyYmxSS1F3akJXTW1sNU9lN3NRRmdLdVBEb2dVN2tQWGtjRmhzL3ZxNTV3U252L0tlZUY1dm9hUUlMbjN5d2RVeDdHaFJkbHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzA0MDgzCWZpbGU6TWVkaWFNYW5nby5hcHAudGFyLmd6CkY1M1NHQmpvQ1dsRngxbzkza0pyNDB2Vk4xM01PaXpGYVg1N0tqcEhIQTgrZmUzcUpESENvY1BMU0ZBVk9PNGl1VlNtaC8xQndWMzI1RVVDN3AzUkFRPT0K",
+      "url": "https://github.com/CSASD/mediamango-downloads/releases/download/macos-v2.0.7/MediaMango.app.tar.gz"
     }
   }
 }
